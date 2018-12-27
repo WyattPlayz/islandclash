@@ -1,6 +1,33 @@
 // server.js
 // where your node app starts
 
+
+
+
+
+
+
+
+//Do The Honors of Starting The Server
+
+
+
+var exec = require('child_process').exec, child;
+child = exec('java -Xmx1024M -Xms1024M -jar ~/server/BungeeCord.jar nogui', function (error, stdout, stderr){
+    console.log('stdout: ' + stdout);
+    console.log('stderr: ' + stderr);
+    if(error !== null){
+      console.log('exec error: ' + error);
+    }
+});
+
+
+
+
+
+
+
+
 // init project
 var express = require('express');
 var bodyParser = require('body-parser');
