@@ -141,3 +141,28 @@
 01:39:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
 01:39:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
 01:39:54 [INFO] Listening on /0.0.0.0:25577
+01:52:30 [INFO] Using mbed TLS based native cipher.
+01:52:30 [INFO] Using zlib based native compressor.
+01:52:30 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:5ef5dd2:1387
+01:52:30 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+01:52:30 [INFO] Epoll is working, utilising it!
+01:52:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+01:52:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+01:52:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+01:52:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+01:52:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+01:52:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+01:52:30 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [WARNING] Forced host server pvp is not defined
+01:52:30 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:30 [INFO] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:5ef5dd2:1387 by SpigotMC
+01:52:31 [INFO] Listening on /0.0.0.0:25577
